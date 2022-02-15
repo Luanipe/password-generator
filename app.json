@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "passwordGenerator",
+    "slug": "passwordGenerator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.luanipe.passwordGenerator"
+    }
+  },
+  "name": "passwordGenerator"
+}
